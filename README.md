@@ -41,6 +41,4 @@ Run the [app](https://exp.host/@alexandrius/AnimationWorkshop) with [Expo](https
 * Scale Animation
 
 
-## Hire us
 
-Message us at ouhra0532@gmail.com
