@@ -43,4 +43,4 @@ Run the [app](https://exp.host/@alexandrius/AnimationWorkshop) with [Expo](https
 
 ## Hire us
 
-Message us at hello@4twiggers.com
+Message us at ouhra0532@gmail.com
